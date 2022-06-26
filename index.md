@@ -23,3 +23,10 @@ Today we're learning blah blah blah
 3. Click on index.md (also known as the first page)
 4. Click the pen and take your notes [use the [markdownguide.org](https://www.markdownguide.org) if needed]
 5. When finished commmit changes
+
+## To add more pages:
+**Repository:** *like a project's folder. Contains all the project files, and stores each file's revision history. Can have mulitple collaborators and can be either public or private.*
+
+1. Go to the repository (in this case: University-Notes)
+2. Click Add file
+3. Create New file
