@@ -1,6 +1,16 @@
-# Compsci Note Jun 26th 2022
+# Compsci Note Jun 26th 2022 (first page)
 
 Today we're learning blah blah blah
+
+## Contents:
+
+|Page| link|
+|---------|------------|
+| P.1  | https://chelcey.github.io/University-Notes/ |
+| P.2 |next p#.md |
+| P.3 | next p#.md |
+
+---
 
 # H1
 ## H2
@@ -30,3 +40,4 @@ Today we're learning blah blah blah
 1. Go to the repository (in this case: University-Notes)
 2. Click Add file
 3. Create New file
+4. When you make the file name add (.md) to it
