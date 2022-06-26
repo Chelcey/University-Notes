@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Compsci Note Jun 26th 2022
 
-You can use the [editor on GitHub](https://github.com/Chelcey/University-Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Today we're learning blah blah blah
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# H1
+## H2
+### H3
 
-### Markdown
+**bold text**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*italicized text*
 
-```markdown
-Syntax highlighted code block
+`code`
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+# Github Navigation Guide
+## To clone templates or create pages:
+**Clone:** *copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.*
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chelcey/University-Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Go to Repositories
+### Click on Repository you want to work on (in this case: University-Notes)
+#### Click on index.md (also known as the first page)
+### Click the pen and take your notes [use the [markdownguide.org](https://www.markdownguide.org) if needed]
+### When finished commmit changes
