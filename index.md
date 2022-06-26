@@ -6,7 +6,7 @@ Today we're learning blah blah blah
 
 |Page| link|
 |---------|------------|
-| P.1  | [https://chelcey.github.io/University-Notes/] |
+| P.1  | (https://chelcey.github.io/University-Notes/) |
 | P.2 |next p#.md |
 | P.3 | next p#.md |
 
