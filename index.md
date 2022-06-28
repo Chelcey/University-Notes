@@ -7,7 +7,7 @@ Today we're learning blah blah blah
 |Page| link|
 |---------|------------|
 | P.0  | [Contents](https://chelcey.github.io/University-Notes/) |
-| P.1 |[The Basics] (https://chelcey.github.io/University-Notes/p1) |
+| P.1 |[The Basics](https://chelcey.github.io/University-Notes/p1) |
 | P.2 | next p#.md |
 
 ---
