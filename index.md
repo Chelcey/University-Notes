@@ -41,3 +41,4 @@ Today we're learning blah blah blah
 2. Click Add file
 3. Create New file
 4. When you make the file name add (.md) to it
+5. Commit new file
