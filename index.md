@@ -8,7 +8,7 @@ Today we're learning blah blah blah
 |---------|------------|
 | P.0  | [Contents](https://chelcey.github.io/University-Notes/) |
 | P.1 |[The Basics](https://chelcey.github.io/University-Notes/p1) |
-| P.2 | [Going through LeetCode] (https://chelcey.github.io/University-Notes/LeetCode)| 
+| P.2 | [Going through LeetCode](https://chelcey.github.io/University-Notes/LeetCode)| 
 | P.2 | next p#.md |
 
 ---
